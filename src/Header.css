@@ -1,0 +1,94 @@
+.background{
+    
+    background-color:whitesmoke;
+    width: 100%;
+    height: auto;
+}
+.card_bg{
+    background: linear-gradient(120deg, #0e0d0e, #050606, #0e1413);
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    height: 70px;
+}
+.card{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    height: 80px;
+}
+.green{
+    display: flex;
+    justify-content: start;
+    align-items:center;
+    margin-left: -92rem;
+
+    
+}
+.position{
+    display: flex;
+    align-items: center;
+}
+.title{
+    width: 100%;
+    height:50px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    color: white;
+    margin-left:-2rem;
+    padding: 2px;
+}
+.vishnu{
+    justify-content: end;
+    display: flex;
+    margin-left: 63rem;
+    border-radius: 50%;
+    height:58px ;
+   
+   
+}
+.home{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 600px;
+    width: 90%;
+    margin: 80px;
+    
+}
+.header{
+    color:antiquewhite;
+
+    align-items: center;
+    margin-bottom: 500px;
+    font-size: 300%;
+}
+.opacity{
+    opacity: 90%;
+    filter: blur(3px);
+  -webkit-filter: blur(3px);
+  
+    
+}
+.part{
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    font-family: italic;
+    font-size: 300%;
+}
+.hamburger_menu{
+    margin-left: 40px;
+    
+}
+.cgf{
+    margin-left: 5px;
+    color: white;
+}
+.exit{
+  color: rgb(1, 2, 3);
+  width: 30px;
+  height: 30px;
+  margin-right: 2rem;
+}

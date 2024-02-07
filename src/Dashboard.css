@@ -1,0 +1,38 @@
+.card2{
+    width: 20%;
+    height: 30rem;
+    margin-left: 20rem;
+    position: absolute;
+    top: 8rem;
+    opacity: 90%;
+    border-color: black;
+
+}
+.xyz1{
+    padding: 20px;
+    margin-left: 5rem;
+    position: absolute;
+    top: 2rem;
+    opacity: 100%;
+}
+.card3{
+    width: 20%;
+    height: 30rem;
+    margin-left: 60rem;
+    top: -22rem;
+    opacity: 90%;
+
+}
+.xyz2{
+    padding: 20px;
+    margin-left: 5rem;
+    position: absolute;
+    top: 2rem;
+}
+.dash{
+    background-color: grey;
+}
+.custom-card {
+    background-color: aquamarine;
+  }
+  
